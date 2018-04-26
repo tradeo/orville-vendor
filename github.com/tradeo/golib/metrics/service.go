@@ -6,7 +6,7 @@ import (
 	"time"
 
 	metrics "github.com/rcrowley/go-metrics"
-	"github.com/tradeo/euler/app/log"
+	"github.com/tradeo/golib/log"
 )
 
 // Service write metrics periodically.

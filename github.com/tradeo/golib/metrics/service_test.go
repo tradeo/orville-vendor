@@ -7,7 +7,7 @@ import (
 
 	metrics "github.com/rcrowley/go-metrics"
 	"github.com/stretchr/testify/assert"
-	"github.com/tradeo/euler/app/log"
+	"github.com/tradeo/golib/log"
 )
 
 type writerMock struct {
